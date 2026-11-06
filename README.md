@@ -1,5 +1,7 @@
 # GetSet: Local Storage, Session Storage & Cookies
 
+By [Distracting](https://distractinglife.com). Guide and FAQ: [distractinglife.com/getset](https://distractinglife.com/getset).
+
 Copy a site's local storage, session storage and cookies, then set them on another site in one click.
 Built for developers who need their localhost to look exactly like staging or production: the same
 feature flags, cached settings, cart and app state, without recreating it by hand or editing values in
@@ -88,7 +90,7 @@ Code layout:
 ## Contributing
 
 Issues and pull requests are welcome:
-[report an issue](https://github.com/distractinglife/GetSet-Local-Storage-chrome-extension/issues).
+[report an issue](https://github.com/vinaydasaridev/GetSet-Local-Storage-chrome-extension/issues).
 Cookie support in 0.3.0 builds on an idea from [@edifierx666](https://github.com/edifierx666).
 
 ## License

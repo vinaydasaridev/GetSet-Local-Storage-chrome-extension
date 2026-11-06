@@ -45,4 +45,4 @@ If this policy changes, the new version will be published at this address with a
 ## Contact
 
 Questions: open an issue at
-https://github.com/distractinglife/GetSet-Local-Storage-chrome-extension/issues
+https://github.com/vinaydasaridev/GetSet-Local-Storage-chrome-extension/issues
