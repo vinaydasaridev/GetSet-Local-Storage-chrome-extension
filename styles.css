@@ -169,6 +169,14 @@ button:disabled {
     gap: 8px;
 }
 
+.byline {
+    margin: 0;
+    padding: 4px 12px 6px;
+    font-size: 11px;
+    text-align: center;
+    opacity: 0.75;
+}
+
 a {
     color: #2a33d4;
     text-decoration: none;
