@@ -1,8 +1,7 @@
 {
   "name": "GetSet Local Storage, Session Storage & Cookies",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "Copy local storage, session storage and cookies from one site to another, e.g. from staging to localhost. Also clear them.",
-  "homepage_url": "https://github.com/distractinglife/GetSet-Local-Storage-chrome-extension",
   "permissions": [
     "scripting",
     "activeTab",
