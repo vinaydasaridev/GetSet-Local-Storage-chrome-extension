@@ -44,6 +44,6 @@ Private by design:
 Free and open source (MIT):
 https://github.com/vinaydasaridev/GetSet-Local-Storage-chrome-extension
 
-Guide and FAQ: https://distractinglife.com/getset
+Guide and FAQ: https://vinaydasari.com/getset
 
-GetSet is by Distracting: https://distractinglife.com
+GetSet is by Vinay Dasari: https://vinaydasari.com

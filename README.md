@@ -1,6 +1,6 @@
 # GetSet: Local Storage, Session Storage & Cookies
 
-By [Distracting](https://distractinglife.com). Guide and FAQ: [distractinglife.com/getset](https://distractinglife.com/getset).
+By [Vinay Dasari](https://vinaydasari.com). Guide and FAQ: [vinaydasari.com/getset](https://vinaydasari.com/getset).
 
 Copy a site's local storage, session storage and cookies, then set them on another site in one click.
 Built for developers who need their localhost to look exactly like staging or production: the same

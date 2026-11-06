@@ -1,6 +1,6 @@
 {
   "name": "GetSet Local Storage, Session Storage & Cookies",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Copy local storage, session storage and cookies from one site to another, e.g. from staging to localhost. Also clear them.",
   "permissions": [
     "scripting",
@@ -24,6 +24,7 @@
     "64": "images/favicon64x64.png",
     "128": "images/favicon128x128.png"
   },
+  "homepage_url": "https://vinaydasari.com/getset",
   "minimum_chrome_version": "132",
   "manifest_version": 3
 }
